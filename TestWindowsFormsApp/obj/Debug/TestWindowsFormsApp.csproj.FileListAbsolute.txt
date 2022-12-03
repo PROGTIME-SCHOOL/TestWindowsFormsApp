@@ -8,3 +8,4 @@ C:\Users\viosagmir\source\repos\TestWindowsFormsApp\TestWindowsFormsApp\obj\Debu
 C:\Users\viosagmir\source\repos\TestWindowsFormsApp\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.csproj.CoreCompileInputs.cache
 C:\Users\viosagmir\source\repos\TestWindowsFormsApp\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.exe
 C:\Users\viosagmir\source\repos\TestWindowsFormsApp\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.pdb
+C:\Users\viosagmir\source\repos\TestWindowsFormsApp\TestWindowsFormsApp\obj\Debug\TestWindowsFormsApp.Form1.resources
